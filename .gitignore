@@ -9,8 +9,6 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 
-123123
-
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
 build/
 DerivedData/
